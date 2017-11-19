@@ -1,7 +1,7 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
 
-## Requireements
+## Requirements
 
 You need only have Python 3 installed on your computer!
 
