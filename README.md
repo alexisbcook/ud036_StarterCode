@@ -7,4 +7,9 @@ You need only have Python 3 installed on your computer!
 
 ## Setup
 
-To open the movie trailer website, clone the repository and open the `fresh_tomatoes.html` file in your favorite web browser.  (As for the other files in the repository, they were used to generate the site and can be safely ignored.)
+To open the movie trailer website, clone the repository and open the `fresh_tomatoes.html` file in your favorite web browser. 
+
+Although we have already generated the `fresh_tomatoes.html` file for you, if you'd like to generate it yourself, you need only execute the `entertainment_center.py` file:
+```
+python3 entertainment_center.py
+```
